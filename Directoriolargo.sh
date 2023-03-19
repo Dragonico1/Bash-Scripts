@@ -1,0 +1,3 @@
+#!/bin/bash
+
+echo "El directirio largo es: $(ls -l)"
