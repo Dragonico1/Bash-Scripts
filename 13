@@ -1,0 +1,3 @@
+#!/usr/bin/dash
+
+mkdir -p bienvenido bienvenido/a bienvenido/a/escuela
