@@ -1,0 +1,7 @@
+#!/usr/bin/bash
+
+mkdir /root/Bash-Scripts/CopiaHTML
+
+cp -rua *html /root/Bash-Scripts/CopiaHTML
+
+ls

@@ -1,7 +1,9 @@
-#!/bin/bash
+#!/usr/bin/bash
 
 touch softcreaf
 
 ls
 
 mv softcreaf /tmp/mi_primer_directorio/
+
+ls

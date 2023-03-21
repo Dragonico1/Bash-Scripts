@@ -1,0 +1,9 @@
+#!/usr/bin/bash
+
+cd /tmp/
+
+ls
+
+rm -rf mi_primer_directorio
+
+ls
