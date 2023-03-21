@@ -1,3 +1,0 @@
-#!/bin/bash
-
-mkdir /tmp/mi_primer_directorio
