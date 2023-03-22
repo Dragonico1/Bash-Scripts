@@ -1,0 +1,3 @@
+#!/usr/bin/dash
+
+find . -type f -exec grep -q "SCHOOL" {} \; -exec mv {} /root/Bash-Scripts/Prueva \;
